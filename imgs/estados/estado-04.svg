@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1440px" height="1024px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1440 1024"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#0A3871;stroke-width:7.99961}
+    .str0 {stroke:#0A3871;stroke-width:7.99961}
+    .str1 {stroke:#373435;stroke-width:1.99961}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M6 -1l1436 0 0 1024 -1436 0 0 -1024z"/>
+   </clipPath>
+     <clipPath id="id1">
+      <path d="M1170 126l0 -95 -597 0 -5 618 -2 204 604 -727z"/>
+     </clipPath>
+      <clipPath id="id2">
+       <path d="M1170 126l0 -95 -597 0 -5 618 -2 204 604 -727z"/>
+      </clipPath>
+      <clipPath id="id3">
+       <path d="M1170 126l0 -95 -597 0 -5 618 -2 204 604 -727z"/>
+      </clipPath>
+     <clipPath id="id4">
+      <path d="M6 -1l1436 0 0 1024 -1436 0 0 -1024z"/>
+     </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <g id="_285283432">
+     <path class="fil0 str0" d="M294 852c45,6 968,14 996,1"/>
+     <polyline class="fil0 str0" points="296,853 703,853 1290,853 "/>
+    </g>
+    <g style="clip-path:url(#id1)">
+     <g>
+      <g>
+      </g>
+     </g>
+     <g style="clip-path:url(#id2)">
+      <g>
+      </g>
+     </g>
+     <g style="clip-path:url(#id3)">
+      <polygon class="fil0 str1" points="-1683,-327 3281,-327 3281,2097 -1683,2097 "/>
+     </g>
+    </g>
+    <g style="clip-path:url(#id4)">
+     <polyline class="fil0 str0" points="1170,126 1170,31 573,31 568,649 566,853 "/>
+     <line class="fil0 str0" x1="296" y1="853" x2="297" y2= "1004" />
+     <line class="fil0 str0" x1="1287" y1="853" x2="1289" y2= "1004" />
+     <line class="fil0 str0" x1="297" y1="1004" x2="1289" y2= "1004" />
+    </g>
+   </g>
+  </g>
+  <polygon class="fil0" points="6,-1 1442,-1 1442,1023 6,1023 "/>
+  <line class="fil0 str0" x1="1175" y1="301" x2="1173" y2= "543" />
+  <g>
+   <ellipse class="fil0 str0" cx="1174" cy="211" rx="87" ry="84"/>
+   <line class="fil0 str2" x1="1153" y1="172" x2="1111" y2= "204" />
+   <line class="fil0 str0" x1="1147" y1="207" x2="1118" y2= "169" />
+   <line class="fil0 str2" x1="1240" y1="172" x2="1198" y2= "204" />
+   <line class="fil0 str0" x1="1233" y1="207" x2="1204" y2= "169" />
+   <line class="fil0 str0" x1="1117" y1="248" x2="1228" y2= "248" />
+   <path class="fil0 str0" d="M1206 248c10,40 17,40 22,0"/>
+  </g>
+  <line class="fil0 str0" x1="1172" y1="329" x2="1088" y2= "469" />
+ </g>
+</svg>
